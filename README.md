@@ -1,0 +1,2 @@
+# inagiiz.cfg
+csgo config
