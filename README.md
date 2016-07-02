@@ -12,3 +12,6 @@ This config is executed every time the game is loaded. Here you can find my alia
 
 ## radiopanel.txt
 Did you know there are some hidden radio commands in the game that you can use? Replace this file and they will appear in the radio menus. [See more info here.](http://steamcommunity.com//sharedfiles/filedetails/?id=171993722)
+
+## launch options
+Open autoexec.cfg line 28 (3 July 2016)
